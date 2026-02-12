@@ -1,0 +1,8 @@
+Tipe Data Number pada PHP
+1. (int) bilangan bulat; 
+Ada decimal (base 10)
+Ada oktal (base 8)
+Ada Heksadesimal (base 16)
+Ada Binary (base 2)
+
+2. (float) bilangan pecahan
